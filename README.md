@@ -96,3 +96,34 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Developed for the future of living architecture.*
+## What Next
+
+The current version of Bio-Tessera is a **conceptual prototype**, developed as part of the author’s master’s level architectural design project.
+Project page:  
+https://autumn2025.bartlettarchucl.com/ad-rc7-biospatial-tending/rc7-project-3-bio-tessera
+
+The website explores a possible **digital interface for managing mycelium-based architectural components**, simulating how living façade modules could be monitored and maintained over time.
+
+It is important to note that the system is currently a **demo version** intended to present the concept and interface logic. Several features are simulated rather than fully implemented. For example:
+
+- Some data shown in the system is **simulated**
+- The **AI analysis results are demonstration outputs**
+- The **Camera / Live Feed interface is a placeholder** and not connected to real devices
+
+In other words, this repository should be understood mainly as a **concept demonstration and interactive prototype**.
+
+### Next Steps
+
+Possible future directions include:
+
+- Integrating the **mycelium crack detection AI model** that has already been trained
+- Building an image capture and automated analysis pipeline
+- Gradually connecting real environmental and monitoring data
+
+The long-term goal is to develop Bio-Tessera into a **digital platform for managing mycelium-based architectural components**  
+(if the author has enough time, funding, and motivation to keep working on it).
+
+Also worth mentioning: the author is **not a software engineer**.  
+This project exists largely thanks to the recent development of AI coding tools, which made it possible for an architecture graduate student to turn a research idea into a working prototype.
+
+If circumstances allow, the project may continue to grow slowly in the future. 🌱
