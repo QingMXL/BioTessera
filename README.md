@@ -1,5 +1,7 @@
 # BIO-TESSERA: Mycelium Management System
 
+**English** | [简体中文说明](./README-zh.md)
+
 ![BIO-TESSERA Banner](https://github.com/QingMXL/Bio-Tessera/blob/main/assets/Bio-Tessera%20Community%20Scene.jpg)
 
 **BIO-TESSERA** is an AI-assisted management platform designed for the monitoring, maintenance, and long-term evolution of mycelium-based architectural structures. The system connects residents, facility managers, and architects through a shared digital interface that supports the observation, analysis, and repair of living building materials.
