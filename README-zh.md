@@ -3,7 +3,6 @@
 [English README](./README.md) | **简体中文说明**
 
 - **在线 Demo**：https://biotessera.vercel.app/
-- **GitHub 仓库**：https://github.com/QingMXL/Bio-Tessera
 
 ![BIO-TESSERA Banner](https://github.com/QingMXL/Bio-Tessera/blob/main/public/assets/Bio-Tessera%20Community%20Scene.jpg)
 
