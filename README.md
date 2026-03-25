@@ -2,7 +2,7 @@
 
 **English** | [简体中文说明](./README-zh.md)
 
-- **Live Demo**: https://biotessera.vercel.app/
+- **Live Demo**: https://github.com/QingMXL/Bio-Tessera
 
 ![BIO-TESSERA Banner](https://github.com/QingMXL/Bio-Tessera/blob/main/public/assets/Bio-Tessera%20Community%20Scene.jpg)
 
