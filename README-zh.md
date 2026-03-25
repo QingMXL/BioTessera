@@ -2,6 +2,9 @@
 
 [English README](./README.md) | **简体中文说明**
 
+- **在线 Demo**：https://biotessera.vercel.app/
+- **GitHub 仓库**：https://github.com/QingMXL/Bio-Tessera
+
 ![BIO-TESSERA Banner](https://github.com/QingMXL/Bio-Tessera/blob/main/public/assets/Bio-Tessera%20Community%20Scene.jpg)
 
 **BIO-TESSERA** 是一个面向菌丝体建筑的 AI 辅助管理平台，用于对基于菌丝体的建筑结构进行监测、维护以及长期演化管理。  
